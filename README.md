@@ -1,4 +1,4 @@
-# PRODIGY_WD_O3
+# PRODIGY_WD_03
 
 Tic Tac Toe
 
